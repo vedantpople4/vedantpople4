@@ -1,6 +1,6 @@
 ### Hi there 👋
-
-**I am Vedant Pople4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Glad to meet you !** 
+**Welcome to my Profile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
