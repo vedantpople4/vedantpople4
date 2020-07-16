@@ -4,7 +4,7 @@ My [**Github**](https://github.com/vedantpople4/) profile potrays my journey fro
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/vedantpople4/) [![Visitors](https://visitor-badge.glitch.me/badge?page_id=vinitshahdeo.visitor-badge)](https://github.com/vedantpople4/) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/vedantpople4/)
 
-[![forthebadge](https://forthebadge.com/images/badges/oooo-kill-em.svg)](https://forthebadge.com)
+
 
 
 
