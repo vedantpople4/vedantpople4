@@ -9,4 +9,5 @@ Also check my profile at [**Sourcerer**](https://sourcerer.io/vedantpople4)
 
 [![ My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vedantpople4&langs_count=3)](https://github.com/vedantpople4/github-readme-stats)
 
+[![Vedant Pople's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vedantpople4)](https://github.com/vedantpople4/github-readme-stats)
 
