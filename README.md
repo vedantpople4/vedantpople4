@@ -7,6 +7,6 @@ Also check my profile at [**Sourcerer**](https://sourcerer.io/vedantpople4)
 
 <img src="https://github-readme-stats.vercel.app/api?username=vedantpople4&&hide=issues&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vedantpople4)](https://github.com/vedantpople4/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vedantpople4&langs_count=3)](https://github.com/vedantpople4/github-readme-stats)
 
 
