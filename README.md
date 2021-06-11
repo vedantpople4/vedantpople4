@@ -9,7 +9,6 @@ Skills: FLUTTER / ML / DL / DJANGO
 - 👯 I’m looking to collaborate on Deep Learning and OpenCV projects 
 - 🤔 I’m looking for help with Competitive programming 
 - 📫 How to reach me: vedantpople4@gmail.com 
-- 😄 Pronouns: He/His 
 - ⚡ Fun fact: I still can't swim and ride a bike 
 
 
