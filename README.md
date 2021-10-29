@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Vedant  
-#### I am a Third year IT undergraduate at VIT, Vellore
+#### I am a Final year IT undergraduate at VIT, Vellore
 An aspiring Data Scientist and Software Engineer
 
 Skills: FLUTTER / ML / DL / DJANGO
