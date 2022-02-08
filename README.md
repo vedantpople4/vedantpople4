@@ -1,10 +1,8 @@
 ### Hi there 👋, my name is Vedant  
 #### I am a Final year IT undergraduate at VIT, Vellore
-An aspiring Data Scientist and Software Engineer
 
 Skills: FLUTTER / ML / DL / DJANGO
 
-- 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Applied Machine Learning and Advanced Data Structures 
 - 👯 I’m looking to collaborate on Deep Learning and OpenCV projects 
 - 🤔 I’m looking for help with Competitive programming 
