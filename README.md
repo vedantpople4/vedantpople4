@@ -1,6 +1,10 @@
 ### Hi there 👋, my name is Vedant  
 #### I am a Final year IT undergraduate at VIT, Vellore
 
+<p align="center">  
+    <img src="https://github.com/vedantpople4/vedantpople4/blob/master/VEDANT%20POPLE.jpg">
+</p>
+
 Skills: FLUTTER / ML / DL / DJANGO
 
 - 🌱 I’m currently learning Applied Machine Learning and Advanced Data Structures 
