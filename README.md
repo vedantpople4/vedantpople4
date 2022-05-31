@@ -22,4 +22,10 @@ Skills: FLUTTER / ML / DL / DJANGO
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=vedantpople4)  
 
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#1333](https://github.com/EddieHubCommunity/LinkFree/issues/1333) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+2. ❗️ Opened issue [#1](https://github.com/Sejal-16/Movie-Recommendation-System/issues/1) in [Sejal-16/Movie-Recommendation-System](https://github.com/Sejal-16/Movie-Recommendation-System)
+3. 🗣 Commented on [#1333](https://github.com/EddieHubCommunity/LinkFree/issues/1333) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+4. 💪 Opened PR [#1333](https://github.com/EddieHubCommunity/LinkFree/pull/1333) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+5. ❗️ Opened issue [#4007](https://github.com/EddieHubCommunity/support/issues/4007) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+<!--END_SECTION:activity-->
 
