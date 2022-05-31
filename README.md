@@ -1,5 +1,5 @@
-### Hi there 👋, my name is Vedant  
-#### I am a Final year IT undergraduate at VIT, Vellore
+### Hi there 👋, my name is Vedant Pople 
+#### I am an IT undergraduate from VIT, Vellore
 
 <p align="center">  
     <img src="https://github.com/vedantpople4/vedantpople4/blob/master/VEDANT%20POPLE.jpg">
@@ -7,8 +7,11 @@
 
 Skills: FLUTTER / ML / DL / DJANGO
 
+<<<<<<< HEAD
 [![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://mobile.twitter.com/vedantpople)[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/vedantpople/)
 
+=======
+>>>>>>> 64a9b2dda76cf50faf33991708252986f98f3c76
 ![Profile views](https://gpvc.arturio.dev/vedantpople4)  [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/vedantpople4/) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fvedantpople4%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
@@ -22,3 +25,12 @@ Skills: FLUTTER / ML / DL / DJANGO
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=vedantpople4&show_icons=true&count_private=true)  
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=vedantpople4)  
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=vedantpople4)  
+
+<!--START_SECTION:activity-->
+1. 🗣 Commented on [#1333](https://github.com/EddieHubCommunity/LinkFree/issues/1333) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+2. ❗️ Opened issue [#1](https://github.com/Sejal-16/Movie-Recommendation-System/issues/1) in [Sejal-16/Movie-Recommendation-System](https://github.com/Sejal-16/Movie-Recommendation-System)
+3. 🗣 Commented on [#1333](https://github.com/EddieHubCommunity/LinkFree/issues/1333) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+4. 💪 Opened PR [#1333](https://github.com/EddieHubCommunity/LinkFree/pull/1333) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+5. ❗️ Opened issue [#4007](https://github.com/EddieHubCommunity/support/issues/4007) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+<!--END_SECTION:activity-->
+
