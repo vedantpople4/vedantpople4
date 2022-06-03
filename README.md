@@ -24,9 +24,9 @@ Skills: FLUTTER / ML / DL / DJANGO
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=vedantpople4)  
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1347](https://github.com/EddieHubCommunity/LinkFree/pull/1347) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-2. ❌ Closed PR [#1333](https://github.com/EddieHubCommunity/LinkFree/pull/1333) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-3. 🗣 Commented on [#1333](https://github.com/EddieHubCommunity/LinkFree/issues/1333) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+1. ❗️ Opened issue [#44](https://github.com/opensourcecommunity-hub/join-the-community/issues/44) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
+2. 💪 Opened PR [#1347](https://github.com/EddieHubCommunity/LinkFree/pull/1347) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+3. ❌ Closed PR [#1333](https://github.com/EddieHubCommunity/LinkFree/pull/1333) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
 4. 🗣 Commented on [#1333](https://github.com/EddieHubCommunity/LinkFree/issues/1333) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
 5. 🗣 Commented on [#1333](https://github.com/EddieHubCommunity/LinkFree/issues/1333) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
 <!--END_SECTION:activity-->
