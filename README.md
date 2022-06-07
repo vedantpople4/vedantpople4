@@ -24,10 +24,10 @@ Skills: FLUTTER / ML / DL / DJANGO
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=vedantpople4)  
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#14](https://github.com/opensourcecommunity-hub/developer-portfolios/pull/14) in [opensourcecommunity-hub/developer-portfolios](https://github.com/opensourcecommunity-hub/developer-portfolios)
-2. ❗️ Opened issue [#44](https://github.com/opensourcecommunity-hub/join-the-community/issues/44) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
-3. 💪 Opened PR [#1347](https://github.com/EddieHubCommunity/LinkFree/pull/1347) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-4. ❌ Closed PR [#1333](https://github.com/EddieHubCommunity/LinkFree/pull/1333) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-5. 🗣 Commented on [#1333](https://github.com/EddieHubCommunity/LinkFree/issues/1333) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+1. 🗣 Commented on [#16](https://github.com/opensourcecommunity-hub/developer-portfolios/issues/16) in [opensourcecommunity-hub/developer-portfolios](https://github.com/opensourcecommunity-hub/developer-portfolios)
+2. 🗣 Commented on [#16](https://github.com/opensourcecommunity-hub/developer-portfolios/issues/16) in [opensourcecommunity-hub/developer-portfolios](https://github.com/opensourcecommunity-hub/developer-portfolios)
+3. 💪 Opened PR [#16](https://github.com/opensourcecommunity-hub/developer-portfolios/pull/16) in [opensourcecommunity-hub/developer-portfolios](https://github.com/opensourcecommunity-hub/developer-portfolios)
+4. ❌ Closed PR [#14](https://github.com/opensourcecommunity-hub/developer-portfolios/pull/14) in [opensourcecommunity-hub/developer-portfolios](https://github.com/opensourcecommunity-hub/developer-portfolios)
+5. 💪 Opened PR [#14](https://github.com/opensourcecommunity-hub/developer-portfolios/pull/14) in [opensourcecommunity-hub/developer-portfolios](https://github.com/opensourcecommunity-hub/developer-portfolios)
 <!--END_SECTION:activity-->
 
