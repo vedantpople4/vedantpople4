@@ -108,10 +108,10 @@ Ask me anything on <a href="https://www.linkedin.com/in/vedantpople/"><b>LinkedI
         </div>
       
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#16](https://github.com/opensourcecommunity-hub/developer-portfolios/issues/16) in [opensourcecommunity-hub/developer-portfolios](https://github.com/opensourcecommunity-hub/developer-portfolios)
+1. 🗣 Commented on [#3](https://github.com/Susmita-Dey/all-round-calculator/issues/3) in [Susmita-Dey/all-round-calculator](https://github.com/Susmita-Dey/all-round-calculator)
 2. 🗣 Commented on [#16](https://github.com/opensourcecommunity-hub/developer-portfolios/issues/16) in [opensourcecommunity-hub/developer-portfolios](https://github.com/opensourcecommunity-hub/developer-portfolios)
-3. 💪 Opened PR [#16](https://github.com/opensourcecommunity-hub/developer-portfolios/pull/16) in [opensourcecommunity-hub/developer-portfolios](https://github.com/opensourcecommunity-hub/developer-portfolios)
-4. ❌ Closed PR [#14](https://github.com/opensourcecommunity-hub/developer-portfolios/pull/14) in [opensourcecommunity-hub/developer-portfolios](https://github.com/opensourcecommunity-hub/developer-portfolios)
-5. 💪 Opened PR [#14](https://github.com/opensourcecommunity-hub/developer-portfolios/pull/14) in [opensourcecommunity-hub/developer-portfolios](https://github.com/opensourcecommunity-hub/developer-portfolios)
+3. 🗣 Commented on [#16](https://github.com/opensourcecommunity-hub/developer-portfolios/issues/16) in [opensourcecommunity-hub/developer-portfolios](https://github.com/opensourcecommunity-hub/developer-portfolios)
+4. 💪 Opened PR [#16](https://github.com/opensourcecommunity-hub/developer-portfolios/pull/16) in [opensourcecommunity-hub/developer-portfolios](https://github.com/opensourcecommunity-hub/developer-portfolios)
+5. ❌ Closed PR [#14](https://github.com/opensourcecommunity-hub/developer-portfolios/pull/14) in [opensourcecommunity-hub/developer-portfolios](https://github.com/opensourcecommunity-hub/developer-portfolios)
 <!--END_SECTION:activity-->
 
