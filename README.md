@@ -106,10 +106,10 @@ Ask me anything on <a href="https://www.linkedin.com/in/vedantpople/"><b>LinkedI
         </div>
       
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#146](https://github.com/SurPathHub/support/issues/146) in [SurPathHub/support](https://github.com/SurPathHub/support)
-2. 💪 Opened PR [#24](https://github.com/Susmita-Dey/all-round-calculator/pull/24) in [Susmita-Dey/all-round-calculator](https://github.com/Susmita-Dey/all-round-calculator)
-3. ❗️ Opened issue [#115](https://github.com/nhcommunity/community/issues/115) in [nhcommunity/community](https://github.com/nhcommunity/community)
-4. 🗣 Commented on [#3](https://github.com/Susmita-Dey/all-round-calculator/issues/3) in [Susmita-Dey/all-round-calculator](https://github.com/Susmita-Dey/all-round-calculator)
-5. 🗣 Commented on [#16](https://github.com/opensourcecommunity-hub/developer-portfolios/issues/16) in [opensourcecommunity-hub/developer-portfolios](https://github.com/opensourcecommunity-hub/developer-portfolios)
+1. 🗣 Commented on [#1](https://github.com/doggggggggo/doggggggggo/issues/1) in [doggggggggo/doggggggggo](https://github.com/doggggggggo/doggggggggo)
+2. ❗️ Opened issue [#146](https://github.com/SurPathHub/support/issues/146) in [SurPathHub/support](https://github.com/SurPathHub/support)
+3. 💪 Opened PR [#24](https://github.com/Susmita-Dey/all-round-calculator/pull/24) in [Susmita-Dey/all-round-calculator](https://github.com/Susmita-Dey/all-round-calculator)
+4. ❗️ Opened issue [#115](https://github.com/nhcommunity/community/issues/115) in [nhcommunity/community](https://github.com/nhcommunity/community)
+5. 🗣 Commented on [#3](https://github.com/Susmita-Dey/all-round-calculator/issues/3) in [Susmita-Dey/all-round-calculator](https://github.com/Susmita-Dey/all-round-calculator)
 <!--END_SECTION:activity-->
 
