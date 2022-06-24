@@ -109,10 +109,10 @@ Ask me anything on <a href="https://www.linkedin.com/in/vedantpople/"><b>LinkedI
         </div>
       
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/meftunca/TensorFlow-Course/issues/1) in [meftunca/TensorFlow-Course](https://github.com/meftunca/TensorFlow-Course)
-2. 🗣 Commented on [#6](https://github.com/Anzo52/concalcjava/issues/6) in [Anzo52/concalcjava](https://github.com/Anzo52/concalcjava)
-3. 🗣 Commented on [#1](https://github.com/doggggggggo/doggggggggo/issues/1) in [doggggggggo/doggggggggo](https://github.com/doggggggggo/doggggggggo)
-4. ❗️ Opened issue [#146](https://github.com/SurPathHub/support/issues/146) in [SurPathHub/support](https://github.com/SurPathHub/support)
-5. 💪 Opened PR [#24](https://github.com/Susmita-Dey/all-round-calculator/pull/24) in [Susmita-Dey/all-round-calculator](https://github.com/Susmita-Dey/all-round-calculator)
+1. ❗️ Opened issue [#422](https://github.com/Devs-Dungeon/support/issues/422) in [Devs-Dungeon/support](https://github.com/Devs-Dungeon/support)
+2. 💪 Opened PR [#8](https://github.com/Anzo52/concalcjava/pull/8) in [Anzo52/concalcjava](https://github.com/Anzo52/concalcjava)
+3. 🗣 Commented on [#1](https://github.com/meftunca/TensorFlow-Course/issues/1) in [meftunca/TensorFlow-Course](https://github.com/meftunca/TensorFlow-Course)
+4. 🗣 Commented on [#6](https://github.com/Anzo52/concalcjava/issues/6) in [Anzo52/concalcjava](https://github.com/Anzo52/concalcjava)
+5. 🗣 Commented on [#1](https://github.com/doggggggggo/doggggggggo/issues/1) in [doggggggggo/doggggggggo](https://github.com/doggggggggo/doggggggggo)
 <!--END_SECTION:activity-->
 
