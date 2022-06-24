@@ -109,10 +109,10 @@ Ask me anything on <a href="https://www.linkedin.com/in/vedantpople/"><b>LinkedI
         </div>
       
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#422](https://github.com/Devs-Dungeon/support/issues/422) in [Devs-Dungeon/support](https://github.com/Devs-Dungeon/support)
-2. 💪 Opened PR [#8](https://github.com/Anzo52/concalcjava/pull/8) in [Anzo52/concalcjava](https://github.com/Anzo52/concalcjava)
-3. 🗣 Commented on [#1](https://github.com/meftunca/TensorFlow-Course/issues/1) in [meftunca/TensorFlow-Course](https://github.com/meftunca/TensorFlow-Course)
-4. 🗣 Commented on [#6](https://github.com/Anzo52/concalcjava/issues/6) in [Anzo52/concalcjava](https://github.com/Anzo52/concalcjava)
-5. 🗣 Commented on [#1](https://github.com/doggggggggo/doggggggggo/issues/1) in [doggggggggo/doggggggggo](https://github.com/doggggggggo/doggggggggo)
+1. ❗️ Opened issue [#10](https://github.com/AccessibleForAll/Support/issues/10) in [AccessibleForAll/Support](https://github.com/AccessibleForAll/Support)
+2. ❗️ Opened issue [#422](https://github.com/Devs-Dungeon/support/issues/422) in [Devs-Dungeon/support](https://github.com/Devs-Dungeon/support)
+3. 💪 Opened PR [#8](https://github.com/Anzo52/concalcjava/pull/8) in [Anzo52/concalcjava](https://github.com/Anzo52/concalcjava)
+4. 🗣 Commented on [#1](https://github.com/meftunca/TensorFlow-Course/issues/1) in [meftunca/TensorFlow-Course](https://github.com/meftunca/TensorFlow-Course)
+5. 🗣 Commented on [#6](https://github.com/Anzo52/concalcjava/issues/6) in [Anzo52/concalcjava](https://github.com/Anzo52/concalcjava)
 <!--END_SECTION:activity-->
 
