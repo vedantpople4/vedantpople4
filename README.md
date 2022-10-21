@@ -5,13 +5,13 @@
 <p align="center"> 
  <img src="https://github.com/vedantpople4/vedantpople4/blob/master/header_.png"/> </p>
 
-<h3 align="center"><b>  I am Vedant Pople, Senior at VIT, Vellore. I am an Open Source and Machine Learning Enthusiast. Currently working on Skill Enhancement in Javascript and Blockchain and looking forward to explore new things. Feel free to connect :)</b></h3>
+<h3 align="center"><b>  I am Vedant Pople, currently a Computer Science (MCS) graduate student at Arizona State University. I am an Open Source Enthusiast, working on many projects to solve real life problems. Feel free to connect </b></h3>
 
 <div align="center">
 
  <br>
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better! <br>
-Ask me anything on <a href="https://www.linkedin.com/in/vedantpople/"><b>LinkedIn</b></a> or <a href="https://twitter.com/vedantpople"><b>Twitter</b></a>.
+Connect with me and ask anything on <a href="https://www.linkedin.com/in/vedantpople/"><b>LinkedIn</b></a> 
 
 <i>Happy Developing and Keep brewing!</i> :)
 
@@ -31,7 +31,7 @@ Ask me anything on <a href="https://www.linkedin.com/in/vedantpople/"><b>LinkedI
 
 ## 👩🏻‍🎓 Experiences and volunteering
  
- Operations Team Member at **C4-Projects**.
+ VP of Educational Operations at **C4-Projects**.
     
  Administrative Head at **ISA-VIT** (2020-2021)
  
