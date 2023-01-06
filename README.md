@@ -5,7 +5,7 @@
 <p align="center"> 
  <img src="https://github.com/vedantpople4/vedantpople4/blob/master/header_.png"/> </p>
 
-<h3 align="center"><b>  I am Vedant Pople, currently a Computer Science (MCS) graduate student at Arizona State University. I am an Open Source Enthusiast, working on many projects to solve real life problems. Feel free to connect </b></h3>
+<h3 align="center"><b>  I am Vedant Pople, currently a Computer Science (MCS) graduate student at Arizona State University. I am an Open Source Enthusiast, working on projects to solve real life problems. Feel free to connect </b></h3>
 
 <div align="center">
 
