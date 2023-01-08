@@ -82,10 +82,6 @@ Connect with me and ask anything on <a href="https://www.linkedin.com/in/vedantp
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-
-<a href="https://github.com/vedantpople4/github-readme-activity-graph"><img alt="Vedant Pople's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=vedantpople4&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-
 <br/>
 <br/>
 
