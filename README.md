@@ -105,10 +105,10 @@ Connect with me and ask anything on <a href="https://www.linkedin.com/in/vedantp
         </div>
       
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5](https://github.com/AccessibleForAll/Resources/issues/5) in [AccessibleForAll/Resources](https://github.com/AccessibleForAll/Resources)
-2. ❗️ Opened issue [#10](https://github.com/AccessibleForAll/Support/issues/10) in [AccessibleForAll/Support](https://github.com/AccessibleForAll/Support)
-3. ❗️ Opened issue [#422](https://github.com/Devs-Dungeon/support/issues/422) in [Devs-Dungeon/support](https://github.com/Devs-Dungeon/support)
-4. 💪 Opened PR [#8](https://github.com/Anzo52/concalcjava/pull/8) in [Anzo52/concalcjava](https://github.com/Anzo52/concalcjava)
-5. 🗣 Commented on [#1](https://github.com/meftunca/TensorFlow-Course/issues/1) in [meftunca/TensorFlow-Course](https://github.com/meftunca/TensorFlow-Course)
+1. 🗣 Commented on [#5299](https://github.com/codinasion/program/issues/5299) in [codinasion/program](https://github.com/codinasion/program)
+2. 💪 Opened PR [#67](https://github.com/Design-and-Code/Dope-Github-Readmes/pull/67) in [Design-and-Code/Dope-Github-Readmes](https://github.com/Design-and-Code/Dope-Github-Readmes)
+3. 💪 Opened PR [#6039](https://github.com/codinasion/program/pull/6039) in [codinasion/program](https://github.com/codinasion/program)
+4. 🗣 Commented on [#5234](https://github.com/codinasion/program/issues/5234) in [codinasion/program](https://github.com/codinasion/program)
+5. 💪 Opened PR [#6009](https://github.com/codinasion/program/pull/6009) in [codinasion/program](https://github.com/codinasion/program)
 <!--END_SECTION:activity-->
 
