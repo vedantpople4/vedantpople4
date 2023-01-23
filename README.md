@@ -105,10 +105,10 @@ Connect with me and ask anything on <a href="https://www.linkedin.com/in/vedantp
         </div>
       
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6073](https://github.com/codinasion/program/pull/6073) in [codinasion/program](https://github.com/codinasion/program)
-2. 🗣 Commented on [#5343](https://github.com/codinasion/program/issues/5343) in [codinasion/program](https://github.com/codinasion/program)
-3. 💪 Opened PR [#6060](https://github.com/codinasion/program/pull/6060) in [codinasion/program](https://github.com/codinasion/program)
-4. 🗣 Commented on [#5299](https://github.com/codinasion/program/issues/5299) in [codinasion/program](https://github.com/codinasion/program)
-5. 💪 Opened PR [#67](https://github.com/Design-and-Code/Dope-Github-Readmes/pull/67) in [Design-and-Code/Dope-Github-Readmes](https://github.com/Design-and-Code/Dope-Github-Readmes)
+1. 🗣 Commented on [#6073](https://github.com/codinasion/program/issues/6073) in [codinasion/program](https://github.com/codinasion/program)
+2. ❌ Closed PR [#6073](https://github.com/codinasion/program/pull/6073) in [codinasion/program](https://github.com/codinasion/program)
+3. 💪 Opened PR [#6073](https://github.com/codinasion/program/pull/6073) in [codinasion/program](https://github.com/codinasion/program)
+4. 🗣 Commented on [#5343](https://github.com/codinasion/program/issues/5343) in [codinasion/program](https://github.com/codinasion/program)
+5. 💪 Opened PR [#6060](https://github.com/codinasion/program/pull/6060) in [codinasion/program](https://github.com/codinasion/program)
 <!--END_SECTION:activity-->
 
