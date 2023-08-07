@@ -23,7 +23,7 @@ Connect with me and ask anything on <a href="https://www.linkedin.com/in/vedantp
     
 🌱 I’m currently learning **Javascript and Devops** 
  
- 👩🏻‍🎓 I'm looking for **Internship Opportunites** to get hands-on experience.
+ 👩🏻‍🎓 I'm looking for **Full-time Opportunites** to get hands-on experience.
 
 👯 I’m looking for collaboration on **OpenSource Projects** and learning from communities.
 
@@ -31,7 +31,7 @@ Connect with me and ask anything on <a href="https://www.linkedin.com/in/vedantp
 
 ## 👩🏻‍🎓 Experiences and volunteering
  
- VP of Educational Operations at **C4-Projects**.
+ Full stack developer at **C4-Projects**.
     
  Administrative Head at **ISA-VIT** (2020-2021)
  
